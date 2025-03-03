@@ -7,6 +7,8 @@ A Model Context Protocol (MCP) server that provides weather forecast data from t
 - Fetch weather forecasts for any location in Canada by providing latitude and longitude
 - Easily integrates with Claude Desktop or any MCP-compatible client
 
+![Weather Forecast Screenshot](screenshot.png)
+
 ## Installation
 
 ### Prerequisites
